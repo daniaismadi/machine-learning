@@ -1,5 +1,7 @@
 # Machine Learning
 
+To view all the projects, please go to this website: https://htmlpreview.github.io/ and paste the relevant HTML links.
+
 ## A1: Exploring Deep Neural Networks and CNNs using Python
 Part 1: I explore different Deep Neural Network architectures, various activation functions used, forward and back propagation, computational graphs and calculating stochastic gradient descent (SGD) update equations.
 
